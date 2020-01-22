@@ -10,6 +10,10 @@ public class Java {
 		
 		System.out.println("hello");
 		
+		System.out.println("new lines added");
+		
+		System.out.println("hai hello ");
+		
 		
 		
 	}
